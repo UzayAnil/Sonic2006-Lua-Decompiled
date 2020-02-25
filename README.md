@@ -1,6 +1,6 @@
 # Sonic2006-Lua-Decompiled
 Code from game Sonic The Hedgehog (2006) decompiled using Unluac tool for educational purposes
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/Sonic2006-Lua-Decompiled)](https://repl.it/github/UzayAnil/Sonic2006-Lua-Decompiled)
 This code is not 100% correct.
 It can contain various errors, such as empty branches, invalid for loops, and other bugs
 
